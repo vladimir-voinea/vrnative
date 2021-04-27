@@ -1,0 +1,3 @@
+include ':vrnativebridge'
+include ':app'
+rootProject.name = "VRNative"
